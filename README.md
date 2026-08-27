@@ -22,3 +22,6 @@ Atomic primitives live in `components/ui/`, JuraAI-specific business components 
 ## Implemented surface
 
 The page includes the marketing navigation, hero AI search bar, trust strip, feature highlights, advanced case-search preview, workflow section, citation cards with quick view modal, AI drafting workspace with upload/progress states, pricing cards for students/advocates/firms, testimonial, CTA banner, and legal footer. Primary interactions produce user-facing toast feedback and the citation quick view supports save behavior.
+
+Live at:
+https://juraai-pk.vercel.app/
